@@ -1,0 +1,1 @@
+## The idea behind this project is to create a simple login page with AuthO implementation which can be used for any base project for my needs.
